@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "public",
+  "description": "- Simple développement d'une page HTML (`index.html`) reprenant des images et du son.  - Pour générer le corps de sa page HTML, on peut utiliser une abbréviation Emmet au sein de VS Code : pour cela tapper  `html:5` dans le fichier `index.html` - En savoir plus sur les abbréviations Emmet : https://docs.emmet.io/abbreviations/ - La gestion du démarrage ou de la pause du son, lors d'un clic sur le header, est gérée dans un script externe au sein de `index.js` - Comment démarrer l'application Web ?     - Installation de l'extension `Live Server` au sein de VS Code.     - Exécution de  `index.hmtl` en faisant un clic droit sur ce fichier dans l'explorer de VS Code, puis `Open with Live Server`",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
